@@ -1,12 +1,12 @@
 # DeepSeekbot
 ##  Требования
 
- ОС:
-   Linux (Ubuntu 20.04+)
-   macOS (Intel / Apple Silicon)
-   Windows 10/11 (через WSL2)
- Минимум **8 GB RAM**
- (Опционально) GPU для ускорения инференса
+- ОС:
+  - Linux (Ubuntu 20.04+)
+  - macOS (Intel / Apple Silicon)
+  - Windows 10/11 (через WSL2)
+- Минимум **8 GB RAM**
+- (Опционально) GPU для ускорения инференса
 
 ---
 
